@@ -1,0 +1,7 @@
+{
+  "name": "AI Career Compass: Live Interviewer",
+  "description": "A sophisticated AI-powered interview platform that parses your resume and conducts a real-time, voice-based technical interview using Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
